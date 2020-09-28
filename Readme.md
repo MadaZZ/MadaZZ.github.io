@@ -1,3 +1,3 @@
 # My Portfolio website
 
-## Open this [LINK](Madazz.Github.io)
+## Open this [LINK](https://madazz.github.io/)
